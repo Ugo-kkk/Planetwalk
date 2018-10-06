@@ -63,7 +63,72 @@ privacy policy（プライバシーポリシー）
 本ポリシーに関するお問い合わせは，下記の窓口までお願いいたします。
 
 
-Eメールアドレス： yugo.2288@gmail.com
+privacy policy
+
+
+The administrator establishes the following privacy policy (hereinafter referred to as "this policy") regarding the handling of privacy information in the service provided on the application (hereinafter referred to as "the service").
+
+Article 1 (Privacy Information)
+Among privacy information, "personal information" shall mean "personal information" referred to in the Personal Information Protection Law, information on surviving individuals, including the name, birth date It means information that can identify a specific individual by month, day, address, telephone number, contact number or other description. "History information and characteristic information" of privacy information means anything other than "personal information" specified above, and the history of the services you used, the items you purchased, the pages and ads you saw, The search keyword searched, the date and time of use, the method of use, usage environment, postal code and gender, occupation, age, IP address of user, cookie information, location information, individual identification information of terminal etc.
+
+Article 2 (Collection method of privacy information)
+The operator may ask personal information such as name, date of birth, address, phone number, e-mail address, bank account number, credit card number, driver's license number, etc. when the user makes a registration registration. In addition, transaction records including personal information of users and parties involved between the user and partner companies, etc., and information on settlement can be provided to the partner of the operator (including information provider, advertiser, ad delivery destination, We collect it from "Partner") and so on.
+As to the user, with respect to the user, the operator can use the service and the software used, the history of the purchased product, the advertisement, the search keyword searched, the use date and time, the usage method, the use environment (the communication state of the terminal in the case of using through the mobile terminal, It also includes various setting information at the time of use), historical information such as IP address, cookie information, position information, terminal individual identification information, and characteristic information, the user can use the service of the operator or partner, Collect when using.
+
+
+Article 3 (Purpose of collecting and using personal information)
+The purpose of collecting and using personal information by operators is as follows.
+
+(1) Register information such as name, address, contact information, payment method, etc., used services, purchased goods, and information on purchased items, in order to allow users to browse and modify their registered information, The purpose of displaying information on such as price etc.
+(2) The purpose of using contact information such as name, address, etc. in case of using e-mail address to inform or communicate to users, sending goods to users or contacting as necessary
+(3) Purpose of using information such as name, date of birth, address, telephone number, bank account number, credit card number, driver's license number, postal arrival result with delivery certificate etc. in order to confirm the user's identity
+(4) In order to request the user for the price, information on the payment such as the name and quantity of the item purchased, the type and duration of the service used, the number of invoices, the name, the address, the bank account number and the credit card number Purpose of using.
+(5) In order to allow the user to conveniently input data, display information registered in this service on the input screen or display other services etc. (provided by the affiliated parties It also includes transferring objects
+(6) We refuse the use of users who violate the terms of use of this service, such as delaying payment of payment or causing damage to a third party, or users who intend to use the service for fraudulent / unfair purposes In order to make use of information for identifying an individual such as usage form, name and address etc.
+(7) In order to respond to inquiries from users, information such as contents of inquiries and billing charges etc. necessary for the Company to provide services to users, user service status of users, contact information Purpose of using
+ (8) Measurement of moving distance obtained from user's position information Also for the purpose of sharing the position information of a photograph when posting a photograph
+(9) Objects attached to the above purpose of use
+
+
+Article 4 (Third party provision of personal information)
+The administrator will not provide personal information to third parties without obtaining prior consent from the user except in the following cases. However, except as permitted by the Personal Information Protection Act or other laws and regulations.
+(1) Based on laws and ordinances
+(2) When it is necessary for the protection of human life, body or property, and it is difficult to obtain consent of the person himself / herself
+(3) When it is particularly necessary for improving public health or promoting healthy development of children and it is difficult to obtain consent of the person himself / herself
+(4) In cases where it is necessary for a national agency, a local public entity or a person receiving a consignment to cooperate in carrying out the affairs prescribed by laws and regulations, by obtaining the consent of the principal, When there is a risk of interfering with
+(5) When notifying or publishing the following matters in advance
+Including provision to third parties for purposes of use
+Items of data provided to third parties
+Means or method of provision to a third party
+Stopping the provision of personal information to third parties as requested by the principal
+Notwithstanding the provisions of the preceding paragraph, the following cases shall not apply to third parties.
+(1) When the entrustor entrusts all or part of the handling of personal information within the range necessary for achieving the purpose of use
+(2) Personal information is provided as a result of business succession due to merger or other reasons
+(3) When personal information is to be used in cooperation with a specific person, that fact and items of personal information to be jointly used, the scope of persons to use in cooperation, When notifying the principal in advance about the purpose of use and the name or name of the person responsible for management of the personal information in advance or putting it in a state that the principal can easily know
+
+Article 5 (disclosure of personal information)
+When an administrator is requested to disclose personal information from himself, he / she will disclose it to him / her without delay. However, if it falls under any of the following due to disclosure, it may not disclose all or part of it, and if you decide not to disclose it, you will be notified without delay.
+(1) When there is a risk of harming the life, body, property or other rights and interests of the individual or a third party
+(2) When there is a risk of significant hindrance to the proper implementation of our business
+(3) In case of violating other laws and regulations
+Notwithstanding the provisions of the preceding paragraph, in principle, we will not disclose information other than personal information such as history information and characteristic information.
+
+Article 6 (Correction and deletion of personal information)
+If the personal information owned by the operator is incorrect information, the user can request correction of the personal information or deletion of the personal information by the procedures specified by the company.
+When the administrator decides that it is necessary to respond to the request by receiving a request from the user from the user, it corrects or deletes the personal information without delay and notifies this to the user.
+
+Article 7 (suspension of use of personal information, etc.)
+From the principal, from the principal, due to reasons that personal information is handled beyond the scope of the purpose of use, or because it was acquired by means of fraud, suspension or elimination of such use (hereinafter referred to as " If you are asked for suspension of use, etc.), we will do the necessary investigation without delay and we will suspend the use of personal information based on the result and notify the person informed accordingly. Provided, however, that if it is difficult to do so, such as when suspension of use of personal information, etc. is expensive, and if it is possible to take alternative measures necessary to protect the rights and interests of the individual , We will take this alternative.
+
+Article 8 (Change of Privacy Policy)
+The contents of this policy can be changed without notifying the user.
+Except as stated separately by the operator, the posted privacy policy will take effect from the time it is posted on this website.
+
+Article 9 (inquiry window)
+For inquiries regarding this policy, please contact the following counter.
+
+
+E-mail： yugo.2288@gmail.com
 
 2018/10/06
 
